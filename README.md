@@ -45,16 +45,19 @@ I work with **C#, ASP.NET Core, SQL Server, and Flutter**, and enjoy turning ide
 ## 🚀 Featured Projects
 
 ### Hospital Management System
+
 A web-based hospital management application built with ASP.NET Core MVC, Entity Framework Core, and SQL Server.
 
 [View Project](https://github.com/BarakAbdo/Hospital_Management_System)
 
 ### Hospital Management Mobile App
+
 A Flutter mobile application integrated with REST APIs.
 
 [View Project](https://github.com/BarakAbdo/lib)
 
 ### SQL Training Center Database
+
 A database project built using SQL Server and T-SQL.
 
 [View Project](https://github.com/BarakAbdo/SQL_Project)
